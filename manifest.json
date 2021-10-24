@@ -18,10 +18,10 @@
     "default_title": "Unlock !"
   },
   "permissions": [
-    "https://*/*",
-    "http://*/*",
-    "tabs",
     "activeTab"
   ],
-  "web_accessible_resources": ["inject.js", "gsoi.js"]
+  "web_accessible_resources": [
+    "inject.js",
+    "gsoi.js"
+  ]
 }
